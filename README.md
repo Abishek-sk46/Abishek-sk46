@@ -24,7 +24,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/Abishek-sk46)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Abishek-sk46?ext=contest&theme=dark)](https://leetcode.com/Abishek-sk46)
 
 
 
